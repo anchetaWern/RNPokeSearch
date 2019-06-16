@@ -10,7 +10,7 @@ A simple Pokemon search app demo for getting started with React Native.
 
 ```
 git clone https://github.com/anchetaWern/RNPokeSearch.git
-cd RNPokeSearch
+cd RNPokeSearch/standard_rn
 ```
 
 2.  Install the dependencies:
@@ -33,7 +33,7 @@ react-native run-ios
 
 ```
 git clone https://github.com/anchetaWern/RNPokeSearch.git
-cd RNPokeSearch
+cd RNPokeSearch/expo
 ```
 
 2.  Install the dependencies:
